@@ -7,7 +7,8 @@ namespace Addition
         static void Main(string[] args)
         {
             int a=4,b=5;
-            Console.WriteLine(a+b);
+            int c=a+b;
+            Console.WriteLine(c);
 
             Console.WriteLine("Hello ");
             Console.ReadLine();
