@@ -9,7 +9,7 @@ namespace Addition
             int a=4,b=5;
             Console.WriteLine(a+b);
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello ");
             Console.ReadLine();
         }
     }
